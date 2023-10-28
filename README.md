@@ -4,8 +4,6 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
-
 Additional description about the project and its features.
 
 ## Built With
@@ -13,11 +11,6 @@ Additional description about the project and its features.
 - Major languages
 - Frameworks
 - Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://eltorretaz.github.io/Odin_recipes_Armando_26august23/)
-
 
 ## Getting Started
 
@@ -52,7 +45,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Eltorretaz/Odin_recipes_Armando_26august23/issues).
+Feel free to check the [issues page](https://github.com/Eltorretaz/Calculator-Python-Armando-28Oct23/issues).
 
 ## Show your support
 
